@@ -33,7 +33,7 @@ I'm a passionate software engineer who loves building innovative solutions that 
 
 ## 📫 Get In Touch
 
-- **Email:** [mananmehta634@example.com](mailto:mananmehta634@gmail.com)
+- **Email:** [mananmehta634@gmail.com](mailto:mananmehta634@gmail.com)
 
 ---
 
