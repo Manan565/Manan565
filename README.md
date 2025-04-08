@@ -33,9 +33,7 @@ I'm a passionate software engineer who loves building innovative solutions that 
 
 ## 📫 Get In Touch
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [your.email@example.com](mailto:mananmehta634@gmail.com)
 
 ---
 
