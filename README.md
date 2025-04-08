@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Manan Mehta👋
 
 I'm a passionate software engineer who loves building innovative solutions that blend AI, web development, and e-commerce. I enjoy taking on challenging projects that push boundaries and make technology more accessible.
 
